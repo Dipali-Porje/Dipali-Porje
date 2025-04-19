@@ -34,7 +34,7 @@ Visit my portfolio to see my full journey, skills, certifications, and more:
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/dipaliporje))
+- 💼 [LinkedIn][(https://www.linkedin.com/in/dipaliporje)]
 - 📸 [GitHub](https://github.com/Dipali-Porje)
 - ✉️ Email: porjedipali7@gmail.com
 
