@@ -29,7 +29,7 @@ Here are a few things I’ve worked on:
 
 Visit my portfolio to see my full journey, skills, certifications, and more:
 
-🔗 [[https://your-portfolio-link.com](https://dipaliporje.netlify.app/)](https://your-portfolio-link.com)
+🔗 [(https://dipaliporje.netlify.app/)]
 ---
 
 ## 📫 Let's Connect!
